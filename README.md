@@ -37,7 +37,7 @@ calculator-project/
 ```
 
 ## 🌍 Demo
-You can check out the live demo [here](#) *(Replace with actual demo link if available)*.
+You can check out the live demo [Calculator](https://mariamelagamii.github.io/Calculator-By-js/)
 
 ---
 ### 👨‍💻 Author
